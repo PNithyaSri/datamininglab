@@ -1,0 +1,12 @@
+%my data
+@relation samplearff
+@attribute rno numeric
+@attribute name string
+@attribute dept {cse,ece,eee,it}
+@attribute age numeric
+
+@data
+13,seetha,cse,16
+14,sudha,it,17
+23,radha,eee,19
+21,lakshmi,ece,18
